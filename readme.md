@@ -1,5 +1,7 @@
 # Gmail Cleanup Script
 
+Don't pay for google one
+
 This Python script automates the process of deleting emails older than one year from your Gmail account.
 
 ## Prereqs
